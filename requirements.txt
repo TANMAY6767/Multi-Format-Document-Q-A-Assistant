@@ -1,0 +1,15 @@
+pymupdf
+docling
+docling-core[chunking-openai]
+streamlit
+python-dotenv
+langchain
+langchain-openai
+langchain-weaviate
+weaviate-client
+pandas
+openpyxl
+xlrd
+langchain-text-splitters
+tiktoken
+
